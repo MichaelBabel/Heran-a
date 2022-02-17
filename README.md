@@ -1,1 +1,1 @@
-Desafio de Herança do curso Java Object-Oriented Programming do Linkedin Learning.
+Desafio de Herança do curso Java Object-Oriented Programming do Linkedin Learning
